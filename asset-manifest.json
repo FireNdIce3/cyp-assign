@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/cyp-assign/static/js/main.3356a088.js",
+    "static/media/Cypher_Spycam.svg": "/cyp-assign/static/media/Cypher_Spycam.ba88c4849e6eaea3a45e8679cb56f0bb.svg",
+    "index.html": "/cyp-assign/index.html",
+    "main.3356a088.js.map": "/cyp-assign/static/js/main.3356a088.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3356a088.js"
+  ]
+}
