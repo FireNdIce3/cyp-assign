@@ -65,8 +65,8 @@ const Sidebar = () => {
       <SLogo>
         <img
           src={logoSVG}
-          title="i know exactly where you are"
-          alt="i know exactly where you are"
+          title="i know exactly where you aree"
+          alt="i know exactly where you aree"
         />
       </SLogo>
       <SSearch
